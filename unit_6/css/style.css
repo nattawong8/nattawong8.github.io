@@ -1,0 +1,67 @@
+
+body {
+    background-color: rgb(245,245,245);
+}
+
+h1 {
+    color: black;
+}
+
+h1 {font-size: 16px;
+		font-family: 'Proza Libre', sans-serif;
+	  font-weight: normal;
+	  font-style: normal;
+	  text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+h2 {font-size: 36px;
+	font-family: 'Proza Libre', sans-serif;
+	  font-weight: normal;
+	  font-style: normal;
+	  text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+img.natalieSthamer {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 500px;
+	width: 750px;
+}
+
+p {font-size: 16px;
+	font-family: 'Open Sans', sans-serif;
+	  font-weight: normal;
+	  font-style: normal;
+	  <!text-align: center;>
+	text-decoration: none;
+}
+
+#left {
+    background-color: white;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 30%;
+}
+
+#right {
+    background-color: white;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;   
+    width: 62%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
