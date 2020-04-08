@@ -58,12 +58,12 @@ p {font-size: 16px;
 	font-family: 'Open Sans', sans-serif;
 	  font-weight: normal;
 	  font-style: normal;
-	  <!text-align: center;>
+	  <text-align: center;>
 	text-decoration: none;
 }
 
 #left {
-    background-color: white;
+    background-color: rgb(245,245,245);
     border: 1px black solid;
     padding: 10px;
     float: left;
