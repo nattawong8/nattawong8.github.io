@@ -64,7 +64,6 @@ p {font-size: 16px;
 
 #left {
     background-color: rgb(245,245,245);
-    border: 1px black solid;
     padding: 10px;
     float: left;
     width: 30%;
@@ -81,7 +80,6 @@ p {font-size: 16px;
 
 #right {
     background-color: rgb(245,245,245);
-    border: 0 px rgb(245,245,245);
     padding: 5px;
     float: right;   
     width: 70%;
