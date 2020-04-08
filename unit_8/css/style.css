@@ -81,7 +81,7 @@ p {font-size: 16px;
 
 #right {
     background-color: rgb(245,245,245);
-    border: 0 px black solid;
+    border: 0 px rgb(245,245,245);
     padding: 5px;
     float: right;   
     width: 70%;
