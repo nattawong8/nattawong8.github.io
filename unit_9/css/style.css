@@ -38,6 +38,7 @@ img.Frollo {
 	margin-left: auto;
 	margin-right: auto;
 	width: 30%;
+	padding: 1em 1em 1em 1em;
 }
 
 img.Wallsync {
@@ -45,6 +46,7 @@ img.Wallsync {
 	margin-left: auto;
 	margin-right: auto;
 	width: 30%;
+	padding: 1em 1em 1em 1em;
 }
 
 img.NSWOEH {
@@ -52,30 +54,22 @@ img.NSWOEH {
 	margin-left: auto;
 	margin-right: auto;
 	width: 30%;
+	padding: 1em 1em 1em 1em;
 }
 
 p {font-size: 16px;
 	font-family: 'Open Sans', sans-serif;
 	  font-weight: normal;
 	  font-style: normal;
-	  <!text-align: center;>
+	  <text-align: center;>
 	text-decoration: none;
 }
 
-#left {
-    background-color: white;
-    border: 1px black solid;
-    padding: 20px;
+#left1 {
+    background-color: rgb(245,245,245);
+    padding: 10px;
     float: left;
     width: 30%;
-}
-
-#right {
-    background-color: white;
-    border: 1px black solid;
-    padding: 20px;
-    float: right;   
-    width: 62%;
 }
 
 .clearfix:after {
@@ -86,3 +80,82 @@ p {font-size: 16px;
     clear: both;
     height: 0;
 }
+
+#right1 {
+    background-color: rgb(245,245,245);
+    padding: 5px;
+    float: right;   
+    width: 70%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+#left2 {
+    background-color: rgb(245,245,245);
+    padding: 5px;
+    float: left;   
+    width: 70%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+#right2 {
+    background-color: rgb(245,245,245);
+    padding: 10px;
+    float: right;
+    width: 30%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+#left3 {
+    background-color: rgb(245,245,245);
+    padding: 10px;
+    float: left;
+    width: 30%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+#right3 {
+    background-color: rgb(245,245,245);
+    padding: 5px;
+    float: right;   
+    width: 70%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
