@@ -78,7 +78,7 @@ p {font-size: 16px;
     height: 0;
 }
 
-#right2 {
+#right1 {
     background-color: rgb(245,245,245);
     padding: 5px;
     float: right;   
@@ -92,4 +92,27 @@ p {font-size: 16px;
     content: " ";
     clear: both;
     height: 0;
+}
+
+#left2 {
+    background-color: rgb(245,245,245);
+    padding: 5px;
+    float: right;   
+    width: 70%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+#right2 {
+    background-color: rgb(245,245,245);
+    padding: 10px;
+    float: left;
+    width: 30%;
 }
