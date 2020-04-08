@@ -80,8 +80,8 @@ p {font-size: 16px;
 }
 
 #right {
-    background-color: white;
-    border: 1px black solid;
+    background-color: rgb(245,245,245);
+    border: 0 px black solid;
     padding: 5px;
     float: right;   
     width: 70%;
