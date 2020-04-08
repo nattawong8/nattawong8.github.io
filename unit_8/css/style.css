@@ -82,9 +82,9 @@ p {font-size: 16px;
 #right {
     background-color: white;
     border: 1px black solid;
-    padding: 20px;
+    padding: 5px;
     float: right;   
-    width: 62%;
+    width: 70%;
 }
 
 .clearfix:after {
