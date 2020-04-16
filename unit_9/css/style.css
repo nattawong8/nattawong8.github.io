@@ -37,7 +37,7 @@ img.Frollo {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 30%;
+	width: 20%;
 	padding: 1em 1em 1em 1em;
 }
 
@@ -45,7 +45,7 @@ img.Wallsync {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 30%;
+	width: 20%;
 	padding: 1em 1em 1em 1em;
 }
 
@@ -53,7 +53,7 @@ img.NSWOEH {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 30%;
+	width: 20%;
 	padding: 1em 1em 1em 1em;
 }
 
@@ -69,7 +69,7 @@ p {font-size: 16px;
     background-color: rgb(245,245,245);
     padding: 10px;
     float: left;
-    width: 30%;
+    width: 20%;
 }
 
 .clearfix:after {
@@ -85,7 +85,7 @@ p {font-size: 16px;
     background-color: rgb(245,245,245);
     padding: 5px;
     float: right;   
-    width: 70%;
+    width: 80%;
 }
 
 .clearfix:after {
@@ -101,7 +101,7 @@ p {font-size: 16px;
     background-color: rgb(245,245,245);
     padding: 5px;
     float: left;   
-    width: 70%;
+    width: 80%;
 }
 
 .clearfix:after {
@@ -117,7 +117,7 @@ p {font-size: 16px;
     background-color: rgb(245,245,245);
     padding: 10px;
     float: right;
-    width: 30%;
+    width: 20%;
 }
 
 .clearfix:after {
@@ -133,7 +133,7 @@ p {font-size: 16px;
     background-color: rgb(245,245,245);
     padding: 10px;
     float: left;
-    width: 30%;
+    width: 20%;
 }
 
 .clearfix:after {
@@ -149,7 +149,7 @@ p {font-size: 16px;
     background-color: rgb(245,245,245);
     padding: 5px;
     float: right;   
-    width: 70%;
+    width: 80%;
 }
 
 .clearfix:after {
@@ -159,3 +159,5 @@ p {font-size: 16px;
     content: " ";
     clear: both;
     height: 0;
+
+    @media only screen and (max-width: 768px)
